@@ -1,5 +1,8 @@
-## Hi there 👋
+## Gulied Abdi👋
 
+**`Web Development and Graphic Design`**
+
+Hi!, My names Gulied abdi. I am a recent software engineering grad with a passion for web development. I love building sleek, efficient websites and tackling new challenges. Proficient in JavaScript, ReactJS and ThreeJS.
 <!--
 **Gulzey/Gulzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
