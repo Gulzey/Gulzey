@@ -1,10 +1,10 @@
-## <div align="center">Hi! I'm Gulied</div>
+## <div align="center">Hi! I'm Guled</div>
 
 <div align="center">
   
   **`Web Development and Graphic Design`**
 
-  Hi!, My name's Gulied Abdi. I am a recent software engineering grad with a passion for web development. <br />  I love building sleek, efficient websites and tackling new challenges. <br /> Proficient in JavaScript, ReactJS, and ThreeJS.
+  Hi!, My name's Guled Abdi. I am a recent software engineering grad with a passion for web development. <br />  I love building sleek, efficient websites and tackling new challenges. <br /> Proficient in JavaScript, ReactJS, and ThreeJS.
   
   ### 🔧 Languages and Tools
 
